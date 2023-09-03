@@ -1,7 +1,4 @@
-//
-//  WeatherViewModel.swift
-//  task4_app
-//
+
 import Foundation
 import CoreLocation
 
